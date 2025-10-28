@@ -1,6 +1,5 @@
 ## Hey there 👋
 
-Just an editing
 
 <!--
 **imJoaoLucas/imJoaoLucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
